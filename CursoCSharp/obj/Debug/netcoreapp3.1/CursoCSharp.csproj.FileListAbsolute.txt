@@ -1,4 +1,3 @@
-C:\Users\Rafael\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csprojAssemblyReference.cache
 C:\Users\Rafael\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfoInputs.cache
 C:\Users\Rafael\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfo.cs
 C:\Users\Rafael\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csproj.CoreCompileInputs.cache
