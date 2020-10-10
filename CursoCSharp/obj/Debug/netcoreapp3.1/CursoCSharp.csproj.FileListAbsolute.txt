@@ -10,3 +10,4 @@ C:\Users\Rafael\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.1\Cur
 C:\Users\Rafael\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.dll
 C:\Users\Rafael\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.pdb
 C:\Users\Rafael\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.genruntimeconfig.cache
+C:\Users\Rafael\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csprojAssemblyReference.cache
