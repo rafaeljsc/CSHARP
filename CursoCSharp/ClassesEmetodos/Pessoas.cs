@@ -11,5 +11,9 @@ namespace CursoCSharp.ClassesEmetodos {
             return string.Format(
                 $"Olá! me chamo {Nome} e tenho {Idade} anos!");
         }
+
+        public void ApresentarNoConsole() {
+            Console.WriteLine(Apresentar());
+        }
     }
 }

@@ -10,7 +10,14 @@ namespace CursoCSharp.ClassesEmetodos {
             sicrano.Nome = "Rafael";
             sicrano.Idade = 28;
 
-            Console.WriteLine($"{sicrano.Nome} tem {sicrano.Idade} anos");
+            //Console.WriteLine($"{sicrano.Nome} tem {sicrano.Idade} anos");
+            sicrano.ApresentarNoConsole();
+
+            var fulano = new Pessoa();
+            fulano.Nome = "Andressa";
+            fulano.Idade = 27;
+
+            var aprensentacaoDoFulano = fulano.Apresentar();
         }
     }
 }

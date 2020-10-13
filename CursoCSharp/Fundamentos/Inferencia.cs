@@ -11,8 +11,8 @@ namespace CursoCSharp.Fundamentos
             Console.WriteLine("Inferências ocorrem quando uma o tipo da variável não é declarado explicitamente, deixando a cargo do compilador definir o seu tipo. \n"+
                 "Inferências são invocadas com o tipo genérico 'var'.");
 
-            var generic = "Teste";
-            var genericNumber = 1;
+           //var generic = "Teste";
+            //var genericNumber = 1;
 
             Console.WriteLine("");
 

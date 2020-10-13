@@ -38,7 +38,9 @@ namespace CursoCSharp {
                 {"Estrutura Break - Estruturas de Controle", EstruturaBreak.Executar},
                 
                 //CLASSES E MÉTODOS
-                {"Classes e métodos - Membros", Membros.Executar},
+                {"Membros - Classes e métodos", Membros.Executar},
+                {"Construtores - Classes e métodos", Construtores.Executar},
+                {"Métodos com Retorno - Classes e métodos", MetodosComRetorno.Executar},
 
             });
 
